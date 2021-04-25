@@ -28,6 +28,13 @@ sections:
       - input_type: textarea
         name: message
         label: Message
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
       - input_type: checkbox
         name: consent
         label: >-
