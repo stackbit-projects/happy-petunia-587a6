@@ -3,7 +3,7 @@ title: Contact
 sections:
   - section_id: contact
     type: section_contact
-    background: white
+    background: gray
     title: Contact
     content: |
       Please complete the short form below. We will get back to you shortly.
