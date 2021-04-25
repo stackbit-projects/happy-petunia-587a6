@@ -88,7 +88,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
+  title: CoworkRanking | Find your next office
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
