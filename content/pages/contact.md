@@ -18,7 +18,7 @@ sections:
         label: Email
         is_required: true
       - input_type: select
-        name: Phone
+        name: Phone numer
         label: Phone number
         default_value: Please select
         options:
