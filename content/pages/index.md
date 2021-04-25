@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/feature3.png
-    image_alt: App preview
+    image_alt: App  f fv
     title: Find your next office
     content: |
       Compare your office options 
