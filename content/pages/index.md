@@ -89,7 +89,7 @@ sections:
     title: Latest Posts
 seo:
   title: CoworkRanking | Find your next office
-  description: The preview of the Azimuth theme
+  description: 'We '
   extra:
     - name: 'og:type'
       value: website
