@@ -11,7 +11,8 @@
             {
                 "label": "Home",
                 "url": "/",
-                "style": "link"
+                "style": "link",
+                "has_icon": true
             },
             {
                 "label": "Features",
