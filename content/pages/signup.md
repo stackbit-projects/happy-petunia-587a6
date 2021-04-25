@@ -1,9 +1,5 @@
 ---
 title: Contact us
-subtitle: |-
-  Please complete the short form below.
-
-  We will contact you as soon as possible.Please complete the short form below.
 image: images/skyscrapers-looking-up.jpg
 image_alt: Office desk top view
 seo:
