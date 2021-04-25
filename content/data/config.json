@@ -35,7 +35,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/logo sans icon couleur.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Stackbit theme demo"
