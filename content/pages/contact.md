@@ -15,7 +15,7 @@ sections:
         is_required: true
       - input_type: text
         name: Company name
-        label: lorem-ipsum
+        label: Company name
         default_value: lorem-ipsum
         options: []
         is_required: false
