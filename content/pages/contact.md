@@ -16,7 +16,8 @@ sections:
       - input_type: text
         name: Company name
         label: Company name
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: email
