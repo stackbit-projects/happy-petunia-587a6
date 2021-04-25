@@ -28,7 +28,7 @@
                 "label": "Contact us",
                 "url": "/contactus",
                 "style": "primary",
-                "has_icon": true
+                "has_icon": false
             }
         ]
     },
