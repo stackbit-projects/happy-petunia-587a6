@@ -24,6 +24,7 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
