@@ -25,9 +25,6 @@ sections:
           - Sponsorship
           - Other
         is_required: false
-      - input_type: textarea
-        name: message
-        label: Message
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
@@ -35,6 +32,9 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: textarea
+        name: message
+        label: Message
       - input_type: checkbox
         name: consent
         label: >-
