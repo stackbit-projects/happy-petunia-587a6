@@ -81,6 +81,7 @@ sections:
         url: /signup
         style: primary
     title: Your research starts here
+    subtitle: It has never easier to find a n
   - section_id: recent-posts
     type: section_posts
     background: gray
