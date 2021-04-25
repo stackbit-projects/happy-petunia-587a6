@@ -5,8 +5,8 @@ sections:
     type: section_contact
     background: gray
     title: Contact
-    content: |
-      Please complete the short form below. We will get back to you shortly.
+    content: |2
+                                                                               Please complete the short form below. We will get back to you shortly.
     form_id: contactForm
     form_fields:
       - input_type: text
