@@ -19,7 +19,7 @@ sections:
         is_required: true
       - input_type: select
         name: Phone
-        label: Subject
+        label: Phone
         default_value: Please select
         options:
           - Error on the site
