@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Find your next office
     content: |
-      Compare your office option 
+      Compare your office options 
     actions:
       - label: Learn More
         url: /features
