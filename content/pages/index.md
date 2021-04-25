@@ -82,6 +82,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
+    title: Start your personnalized research
   - section_id: recent-posts
     type: section_posts
     background: gray
