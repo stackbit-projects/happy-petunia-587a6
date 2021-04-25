@@ -88,7 +88,7 @@ sections:
     title: Latest Posts
 seo:
   title: CoworkRanking | Find your next office
-  description: Your research starts here.
+  description: 'Your research starts here. '
   extra:
     - name: 'og:type'
       value: website
