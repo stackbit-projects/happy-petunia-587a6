@@ -21,20 +21,6 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
-      - title: The Best Feature of Your Services
-        image: images/feature1.png
-        image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
