@@ -27,7 +27,7 @@ sections:
       Nous organisons pour vous les visites des espaces que vous avez
       sélectionnés.
     actions:
-      - label: Start now
+      - label: Commencer ma recherche
         url: /contact
         style: secondary
   - section_id: call-to-action
