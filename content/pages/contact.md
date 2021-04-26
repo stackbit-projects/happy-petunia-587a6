@@ -15,7 +15,7 @@ sections:
         is_required: true
       - input_type: text
         name: Company name
-        label: Company name
+        label: Nom entreprise
         options: []
         is_required: false
         type: form_field
