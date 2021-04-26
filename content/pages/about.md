@@ -1,8 +1,8 @@
 ---
 title: About Us
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  Our mission is to simplify the process of finding a new office. We compare the
+  best option according to your project.
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
