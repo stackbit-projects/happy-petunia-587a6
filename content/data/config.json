@@ -9,16 +9,16 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link",
-                "has_icon": false
-            },
-            {
                 "label": "Service",
                 "url": "/features",
                 "style": "link",
                 "icon_position": "left"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link",
+                "has_icon": false
             },
             {
                 "label": "About",
