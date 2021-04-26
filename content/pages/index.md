@@ -9,7 +9,7 @@ sections:
       Compare your office options 
     actions:
       - label: Learn More
-        url: /features
+        url: /service
         style: primary
   - section_id: features
     type: section_features
