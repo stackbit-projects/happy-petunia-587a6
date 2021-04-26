@@ -21,7 +21,7 @@
                 "has_icon": false
             },
             {
-                "label": "À propos",
+                "label": "propos",
                 "url": "/features",
                 "style": "link"
             },
