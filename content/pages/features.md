@@ -8,23 +8,25 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Comment ca marche ?
     content: >
-      #### **Discovery call**
+      #### **Un appel de découverte **
 
 
-      You get contacted by one of our team member to talk about your needs and
-      wants. 
+      Un de nos conseillers vous contact pour échanger sur vos besoins et vos
+      critères de recherche.
 
 
-      #### **Quick resarch**
+      #### **Une recherche rapide**
 
 
-      We research and present you the best available options.
+      Nous réalisons gratuitement la recherche de votre futur espace de
+      travail. 
 
 
-      #### **Scheduled visit**
+      #### **Une visite programmée**
 
 
-      We schedule the visits for the spaces you have selected. 
+      Nous organisons pour vous les visites des espaces que vous avez
+      sélectionnés. 
     actions:
       - label: Start now
         url: /contact
