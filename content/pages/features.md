@@ -30,14 +30,6 @@ sections:
       - label: Commencer ma recherche
         url: /contact
         style: primary
-  - section_id: call-to-action
-    type: section_cta
-    title: Your research starts here
-    subtitle: It has never been this easy to find an office.
-    actions:
-      - label: Get Started
-        style: secondary
-        url: /contact
 seo:
   title: Features
   description: This is the features page
