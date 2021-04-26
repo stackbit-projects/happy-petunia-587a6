@@ -8,7 +8,7 @@ sections:
     content: |
       Compare your office options 
     actions:
-      - label: Learn More
+      - label: Découvrir
         url: /pricing
         style: primary
   - section_id: features
