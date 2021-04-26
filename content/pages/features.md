@@ -32,7 +32,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Your research starts here
-    subtitle: This is an optional description for the call to action block.
+    subtitle: It has never been this easy to find an office.
     actions:
       - label: Get Started
         url: '#'
