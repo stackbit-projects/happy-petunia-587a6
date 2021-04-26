@@ -5,8 +5,9 @@ sections:
     type: section_hero
     image: images/feature3.png
     title: Trouver votre nouvel espace de travail
-    content: |
-      Compare your office options 
+    content: |+
+      Nos équipes vous accompagnent dans votre recherche.
+
     actions:
       - label: Découvrir
         url: /pricing
