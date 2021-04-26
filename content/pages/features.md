@@ -26,7 +26,7 @@ sections:
 
       We schedule the visits for the spaces you have selected. 
     actions:
-      - label: Start Now
+      - label: Start now
         url: '#'
         style: secondary
   - section_id: call-to-action
