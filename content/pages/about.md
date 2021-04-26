@@ -4,7 +4,6 @@ subtitle: >-
   Our mission is to simplify the process of finding a new office. We compare the
   best option according to your project.
 image: images/about.jpg
-image_alt: Team members in a conference room
 seo:
   title: About Us
   description: This is the about page
