@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/feature3.png
-    title: Find your next office
+    title: Trouver votre nouvel espace de tr
     content: |
       Compare your office options 
     actions:
