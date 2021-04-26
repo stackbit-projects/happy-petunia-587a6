@@ -43,7 +43,7 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Company",
+                "title": "Entreprise",
                 "nav_links": [
                     {
                         "label": "Service",
