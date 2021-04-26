@@ -85,7 +85,7 @@
             },
             {
                 "type": "footer_form",
-                "title": "W",
+                "title": "Want to know more ?",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [],
