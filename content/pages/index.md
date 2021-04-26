@@ -81,7 +81,7 @@ sections:
         url: /signup
         style: primary
     title: Your research starts here
-    subtitle: It has never been easier to find a new office
+    subtitle: It has never been easier to find a new office.
   - section_id: recent-posts
     type: section_posts
     background: gray
