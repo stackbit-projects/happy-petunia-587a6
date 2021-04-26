@@ -17,7 +17,8 @@
             {
                 "label": "Service",
                 "url": "/features",
-                "style": "link"
+                "style": "link",
+                "icon_position": "right"
             },
             {
                 "label": "About",
