@@ -35,7 +35,6 @@ sections:
     subtitle: It has never been this easy to find an office.
     actions:
       - label: Get Started
-        url: '#'
         style: secondary
 seo:
   title: Features
