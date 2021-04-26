@@ -53,7 +53,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-    title: Your research starts here
+    title: Votre recherche commence ici !
     subtitle: It has never been easier to find a new office.
 seo:
   title: CoworkRanking | Find your next office
