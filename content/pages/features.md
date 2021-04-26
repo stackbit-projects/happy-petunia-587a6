@@ -8,7 +8,7 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Comment ca marche ?
     content: >
-      #### **Une recherche rapide**
+      #### **Un appel de découverte**
 
 
       Un de nos conseillers vous contact pour échanger sur vos besoins et vos
