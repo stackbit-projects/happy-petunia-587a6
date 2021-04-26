@@ -29,7 +29,7 @@ sections:
     actions:
       - label: Commencer ma recherche
         url: /contact
-        style: secondary
+        style: primary
   - section_id: call-to-action
     type: section_cta
     title: Your research starts here
