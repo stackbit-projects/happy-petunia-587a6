@@ -46,6 +46,11 @@
                 "title": "Company",
                 "nav_links": [
                     {
+                        "label": "Service",
+                        "url": "/features",
+                        "style": "link"
+                    },
+                    {
                         "label": "About",
                         "url": "/about",
                         "style": "link"
@@ -53,11 +58,6 @@
                     {
                         "label": "Blog",
                         "url": "/blog",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Service",
-                        "url": "/features",
                         "style": "link"
                     }
                 ]
