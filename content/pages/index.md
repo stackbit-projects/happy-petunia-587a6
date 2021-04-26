@@ -50,7 +50,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     actions:
-      - label: Get Started
+      - label: Commencer
         url: /signup
         style: primary
     title: Votre recherche commence ici !
