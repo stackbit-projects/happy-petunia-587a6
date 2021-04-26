@@ -26,7 +26,7 @@
                 "style": "link"
             },
             {
-                "label": "Contact us",
+                "label": "Nous contacter",
                 "url": "/contact",
                 "style": "primary",
                 "has_icon": false
