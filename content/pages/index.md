@@ -55,10 +55,6 @@ sections:
         style: primary
     title: Your research starts here
     subtitle: It has never been easier to find a new office.
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 seo:
   title: CoworkRanking | Find your next office
   description: Connecting companies to their perfect office match.
