@@ -28,7 +28,7 @@ sections:
             url: /features
             style: secondary
             has_icon: true
-            icon: arrow-right
+            icon: envelope
             icon_position: right
       - title: Découvrez
         image: images/feature3.png
