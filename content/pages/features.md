@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/steel-skyscraper-slice-into-the-sky.jpg
     image_alt: App preview on a phone and tablet
-    title: The Best Features of Your Services
+    title: How does it works ?
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
