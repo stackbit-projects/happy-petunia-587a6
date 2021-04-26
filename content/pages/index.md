@@ -54,7 +54,7 @@ sections:
         url: /signup
         style: primary
     title: Votre recherche commence ici !
-    subtitle: It has never been easier to find a new office.
+    subtitle: Trouver un espace de coworking n'a jamais été aussi simple.
 seo:
   title: CoworkRanking | Find your next office
   description: Connecting companies to their perfect office match.
