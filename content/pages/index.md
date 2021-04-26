@@ -27,7 +27,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-            has_icon: true
+            has_icon: false
             icon: envelope
             icon_position: right
       - title: Découvrez
