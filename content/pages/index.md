@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Learn More
         url: /pricing
-        style: link
+        style: primary
   - section_id: features
     type: section_features
     background: gray
