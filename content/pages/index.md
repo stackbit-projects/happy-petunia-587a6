@@ -57,7 +57,7 @@ sections:
     title: Votre recherche commence ici !
     subtitle: Trouver un espace de coworking n'a jamais été aussi simple.
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Derniers articles
     subtitle: lorem-ipsum
     background: gray
     type: section_posts
