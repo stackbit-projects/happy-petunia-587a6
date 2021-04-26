@@ -15,7 +15,6 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Les avantages du coworking
     features:
       - title: Awesome Feature of Your Services
         image: images/feature2.png
