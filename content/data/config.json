@@ -15,13 +15,13 @@
                 "has_icon": false
             },
             {
-                "label": "About",
-                "url": "/features",
+                "label": "Service",
+                "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "Service",
-                "url": "/pricing",
+                "label": "About",
+                "url": "/features",
                 "style": "link"
             },
             {
