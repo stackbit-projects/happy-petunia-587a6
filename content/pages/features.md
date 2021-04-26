@@ -26,9 +26,6 @@ sections:
 
       We schedule the visits for the spaces you have selected. 
     actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
       - label: View Demo
         url: '#'
         style: secondary
