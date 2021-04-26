@@ -25,7 +25,7 @@ sections:
         is_required: true
       - input_type: tel
         name: Phone numer
-        label: Phone number
+        label: Téléphone
         options:
           - Error on the site
           - Sponsorship
