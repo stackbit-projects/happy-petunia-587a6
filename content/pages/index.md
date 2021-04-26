@@ -28,6 +28,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/tall-business-towers.jpg
   - section_id: features
     type: section_features
     background: gray
