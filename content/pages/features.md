@@ -7,21 +7,24 @@ sections:
     image: images/steel-skyscraper-slice-into-the-sky.jpg
     image_alt: App preview on a phone and tablet
     title: How does it works ?
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      #### **Discovery call**
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      You get contacted by one of our team member to talk about your needs and
+      wants. 
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      #### **Quick resarch**
+
+
+      We research and present you the best available options.
+
+
+      #### **Scheduled visit**
+
+
+      We schedule the visits for the spaces you have selected. 
     actions:
       - label: Free Trial
         url: /signup
