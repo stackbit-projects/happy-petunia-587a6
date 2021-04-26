@@ -57,7 +57,7 @@
                     },
                     {
                         "label": "Service",
-                        "url": "/contact",
+                        "url": "/service",
                         "style": "link"
                     }
                 ]
