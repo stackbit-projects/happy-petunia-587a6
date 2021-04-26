@@ -4,7 +4,7 @@
     "base_font": "fira-sans",
     "palette": "cyan",
     "header": {
-        "logo_img": "images/LOGO PNG ALL BLUE.png",
+        "logo_img": "images/splendid-whale.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
