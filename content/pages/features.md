@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/steel-skyscraper-slice-into-the-sky.jpg
     image_alt: App preview on a phone and tablet
-    title: How does it works ?
+    title: Comment ca marche ?
     content: >
       #### **Discovery call**
 
