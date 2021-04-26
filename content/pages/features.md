@@ -8,7 +8,7 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Comment ca marche ?
     content: >
-      #### **Un appel de découverte **
+      #### **Une recherche rapide**
 
 
       Un de nos conseillers vous contact pour échanger sur vos besoins et vos
@@ -18,15 +18,14 @@ sections:
       #### **Une recherche rapide**
 
 
-      Nous réalisons gratuitement la recherche de votre futur espace de
-      travail. 
+      Nous réalisons gratuitement la recherche de votre futur espace de travail.
 
 
       #### **Une visite programmée**
 
 
       Nous organisons pour vous les visites des espaces que vous avez
-      sélectionnés. 
+      sélectionnés.
     actions:
       - label: Start now
         url: /contact
