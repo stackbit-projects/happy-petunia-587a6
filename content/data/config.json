@@ -89,7 +89,7 @@
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [],
-                "submit_label": "Subscribe"
+                "submit_label": "Contact us"
             }
         ],
         "has_nav": true,
