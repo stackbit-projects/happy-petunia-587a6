@@ -6,7 +6,9 @@ sections:
     background: gray
     title: Contact
     content: |
-      Please complete the short form below. We will get back to you shortly.
+      Veuillez remplir le court formulaire ci-dessous. 
+
+      Nous vous recontacterons dans les meilleurs délais.
     form_id: contactForm
     form_fields:
       - input_type: text
