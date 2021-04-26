@@ -16,9 +16,6 @@ sections:
     type: section_features
     background: gray
     title: Les avantages du coworking
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
     features:
       - title: Awesome Feature of Your Services
         image: images/feature2.png
