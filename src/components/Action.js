@@ -18,7 +18,7 @@ export default class Action extends React.Component {
               {_.get(action, 'has_icon', null) && (
                 <Icon {...this.props} icon={action_icon} />
               )}
-              <span className={classNames({'order-first': action_icon_pos === 'middlecenter'})}>{_.get(action, 'label', null)}</span>
+              <span className={classNames({'order-first': action_icon_pos === 'center'})}>{_.get(action, 'label', null)}</span>
             </Link>
         );
     }
