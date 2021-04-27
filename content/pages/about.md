@@ -1,8 +1,8 @@
 ---
 title: CoworkRanking
 subtitle: >-
-  Notre mission est Our mission is to simplify the process of finding a new
-  office. We compare the best option according to your project.
+  Notre mission est de trouver le nouvel espace de travail qui correspond à 100%
+  à vos besoins de vos équipes.
 image: images/skyscrapers-looking-up.jpg
 seo:
   title: About Us
