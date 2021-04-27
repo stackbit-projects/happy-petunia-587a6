@@ -2,7 +2,8 @@
 title: CoworkRanking
 subtitle: >-
   Notre mission est de trouver le nouvel espace de travail qui correspond à 100%
-  à vos besoins de vos équipes.
+  à vos besoins de vos équipes. Nous comparons gratuitement les meilleurs
+  options.
 image: images/skyscrapers-looking-up.jpg
 seo:
   title: About Us
