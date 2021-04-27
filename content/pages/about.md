@@ -5,7 +5,7 @@ subtitle: >-
   besoins de vos équipes.
 image: images/skyscrapers-looking-up.jpg
 seo:
-  title: A propos
+  title: À propos
   description: This is the about page
   extra:
     - name: 'og:type'
