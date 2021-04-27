@@ -34,7 +34,9 @@ sections:
     type: section_posts
 seo:
   title: CoworkRanking | Trouvez votre coworking
-  description: 'Nous accompagnons des entreprises dans la recherche de leur futur bureau. '
+  description: >-
+    Nous accompagnons des entreprises dans la recherche de leur futur espace  de
+    travail. 
   extra:
     - name: 'og:type'
       value: website
