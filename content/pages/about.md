@@ -1,5 +1,5 @@
 ---
-title: Qui s
+title: CoworkRanking
 subtitle: >-
   Our mission is to simplify the process of finding a new office. We compare the
   best option according to your project.
