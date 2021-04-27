@@ -6,7 +6,9 @@ subtitle: >-
 image: images/skyscrapers-looking-up.jpg
 seo:
   title: 'À propos | CoworkRanking : Le spécialiste du coworking. '
-  description: 'CoworkRanking : Le spécialiste du coworking. '
+  description: >-
+    Notre mission est de trouver l'espace de travail qui correspond à 100% aux
+    besoins de vos équipes.
   extra:
     - name: 'og:type'
       value: website
