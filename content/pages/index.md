@@ -16,7 +16,7 @@ sections:
     type: section_features
     background: gray
     features:
-      - title: Awesome Feature of Your Services
+      - title: Pourquoi faire le choix du coworking ?
         image: images/Projet HP 1.png
         image_alt: App users welcoming a new member
         content: >-
