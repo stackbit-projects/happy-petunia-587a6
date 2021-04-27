@@ -17,7 +17,7 @@ sections:
     background: gray
     features:
       - title: Pourquoi faire le choix du coworking ?
-        image: images/cool-squid.png
+        image: images/Projet HP 2.png
         image_alt: App users welcoming a new member
         actions: []
   - section_id: call-to-action
