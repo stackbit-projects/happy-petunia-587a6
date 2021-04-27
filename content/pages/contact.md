@@ -7,7 +7,7 @@ sections:
     title: Contact
     content: |
       Veuillez remplir le court formulaire ci-dessous. 
-      
+
       Nous vous recontacterons dans les meilleurs délais.
     form_id: contactForm
     form_fields:
@@ -39,8 +39,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Je comprends que ce formulaire stocke les informations que j'ai
+          soumises afin que je puisse être contacté.
         is_required: true
     submit_label: Envoyer
 seo:
