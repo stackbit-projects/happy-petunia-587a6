@@ -1,9 +1,8 @@
 ---
 title: 'CoworkRanking : le spécialiste du coworking.'
 subtitle: >-
-  Notre mission est de trouver le nouvel espace de travail qui correspond à 100%
-  à vos besoins de vos équipes. Nous comparons gratuitement les meilleurs
-  options.
+  Notre mission est de trouver l'espace de travail qui correspond à 100% à vos
+  besoins de vos équipes.
 image: images/skyscrapers-looking-up.jpg
 seo:
   title: About Us
