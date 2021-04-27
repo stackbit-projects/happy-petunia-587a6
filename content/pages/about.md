@@ -34,4 +34,4 @@ layout: page
 ---
 CoworkRanking a été créé à partir d’un constat simple : l’évolution des méthodes de travail a bouleversé la façon dont les espaces de bureaux sont utilisés. De nombreuses entreprises font dorénavant le choix du flex office comme solution immobilière. Elles profitent d'une plus grande flexibilité et surtout d'un environnement de travail conçu pour améliorer l'échange et la productivité.
 
-CoworkRanking vous accompagne dans votre recherche d’un nouvel espace de travail. Nous trouvons pour vous l’espace qui correspond à vos besoins et nous vous mettons en relation avec l'opérateur concerné.
+Les équipes de CoworkRanking vous accompagne dans votre recherche d’un nouvel espace de travail. Nous trouvons pour vous l’espace qui correspond à vos besoins et nous vous mettons en relation avec l'opérateur concerné.
