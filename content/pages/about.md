@@ -3,7 +3,7 @@ title: About Us
 subtitle: >-
   Our mission is to simplify the process of finding a new office. We compare the
   best option according to your project.
-image: images/about.jpg
+image: images/skyscrapers-looking-up.jpg
 seo:
   title: About Us
   description: This is the about page
