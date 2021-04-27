@@ -5,7 +5,7 @@ subtitle: >-
   besoins de vos équipes.
 image: images/skyscrapers-looking-up.jpg
 seo:
-  title: À propos
+  title: 'À propos | CoworkRanking : Le spécialiste du coworking. '
   description: 'CoworkRanking : Le spécialiste du coworking. '
   extra:
     - name: 'og:type'
