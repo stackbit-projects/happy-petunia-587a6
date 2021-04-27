@@ -7,7 +7,6 @@ sections:
     title: Contact
     content: |
       Veuillez remplir le court formulaire ci-dessous. 
-
       Nous vous recontacterons dans les meilleurs délais.
     form_id: contactForm
     form_fields:
