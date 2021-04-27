@@ -33,7 +33,7 @@ sections:
     background: gray
     type: section_posts
 seo:
-  title: CoworkRanking | Find your next office
+  title: CoworkRanking | Trouvez votre coworking
   description: Connecting companies to their perfect office match.
   extra:
     - name: 'og:type'
