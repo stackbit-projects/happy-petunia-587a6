@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/Image site HP.png
+    image: images/Projet HP 0.png
     title: Trouver votre nouvel espace de travail
     content: |+
       Nos équipes vous accompagnent dans votre recherche.
