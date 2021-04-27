@@ -6,7 +6,7 @@ subtitle: >-
 image: images/skyscrapers-looking-up.jpg
 seo:
   title: À propos
-  description: This is the about page
+  description: 'CoworkRanking : Le spécialiste du coworking. '
   extra:
     - name: 'og:type'
       value: website
