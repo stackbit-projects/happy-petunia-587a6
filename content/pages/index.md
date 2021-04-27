@@ -19,10 +19,6 @@ sections:
       - title: Pourquoi faire le choix du coworking ?
         image: images/Projet HP 1.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
         actions:
           - label: Learn More
             url: /features
