@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/spectacular-pluto.png
+    image: images/pleasant-yam.png
     title: Trouver votre nouvel espace de travail
     content: |+
       Nos équipes vous accompagnent dans votre recherche.
