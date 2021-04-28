@@ -1,10 +1,9 @@
 ---
 title: 'Coworking : pourquoi sauter le pas ?'
 excerpt: >-
-  Changer de bureaux est une décision cruciale dans l'évolution d'une
-  entreprise. Cela implique une longue réflexion pour choisir l'option la mieux
-  adapté aux besoins de vos équipes. Découvrez nos conseils pour sauter le pas
-  du coworking.
+  Changer de bureau est une décision cruciale dans l'évolution d'une entreprise.
+  Cela implique une longue réflexion pour choisir l'option la mieux adaptée aux
+  besoins de vos équipes. Découvrez les avantages du coworking.
 author: content/data/authors/jane-doe.yaml
 date: '2021-04-28'
 thumb_image: images/team-brainstorm-meeting-in-modern-office (1).jpg
