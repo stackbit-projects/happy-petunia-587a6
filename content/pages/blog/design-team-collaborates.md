@@ -6,7 +6,7 @@ excerpt: >-
   adapté aux besoins de vos équipes. Découvrez nos conseils pour sauter le pas
   du coworking.
 author: content/data/authors/jane-doe.yaml
-date: '2019-03-24'
+date: '2021-04-28'
 thumb_image: images/team-brainstorm-meeting-in-modern-office (1).jpg
 image: images/team-brainstorm-meeting-in-modern-office (1).jpg
 seo:
