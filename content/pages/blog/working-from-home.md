@@ -1,6 +1,8 @@
 ---
 title: Les 10 plus beaux espaces de coworking à Paris
-excerpt: Découvrez les plus beaux espaces de coworking situé en région parisienne.
+excerpt: >-
+  Découvrez les plus beaux espaces de coworking situé en région parisienne. Vous
+  y trouverez peut-être votre futur lieu de travail rêvé.
 author: content/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/9_thumb.jpg
