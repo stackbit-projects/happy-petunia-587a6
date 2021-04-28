@@ -5,7 +5,7 @@ excerpt: >-
   y trouverez peut-être votre futur lieu de travail rêvé.
 author: content/data/authors/jane-doe.yaml
 date: '2020-04-22'
-thumb_image: images/9_thumb.jpg
+thumb_image: images/sharetribe_cover-picture_city.jpg
 thumb_image_alt: People in a conference room
 image: images/9.jpg
 image_alt: People in a conference room
