@@ -5,7 +5,7 @@ excerpt: >-
   sapien blandit ac amet faucibus aliquet placerat commodo.
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-24'
-thumb_image: images/11_thumb.jpg
+thumb_image: images/team-brainstorm-meeting-in-modern-office (1).jpg
 image: images/team-brainstorm-meeting-in-modern-office (1).jpg
 seo:
   title: How Our Design Team Collaborates
