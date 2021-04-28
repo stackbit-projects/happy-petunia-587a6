@@ -1,5 +1,5 @@
 ---
-title: Les 10 meilleurs espaces de coworking à Paris
+title: Les 10 plus beaux espaces de coworking à Paris
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities.
