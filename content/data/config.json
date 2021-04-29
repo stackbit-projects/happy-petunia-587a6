@@ -93,6 +93,11 @@
                 "hide_labels": true,
                 "form_fields": [],
                 "submit_label": "Contactez-nous"
+            },
+            {
+                "title": "lorem-ipsum",
+                "nav_links": [],
+                "type": "footer_nav"
             }
         ],
         "has_nav": true,
