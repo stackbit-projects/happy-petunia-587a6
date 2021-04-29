@@ -49,8 +49,8 @@ sections:
           notre motivation pour trouver l'espace rêvé de nos clients.
         type: faq_item
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Pourquoi choisir les équipes de CoworkRanking pour gérer ma recherche
+          ? 
         answer: >-
           ## Lorem ipsum
 
