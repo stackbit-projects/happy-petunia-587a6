@@ -32,7 +32,6 @@ sections:
         style: primary
   - section_id: lorem-ipsum
     title: Questions fréquentes ?
-    subtitle: lorem-ipsum
     background: white
     faq_items:
       - question: >-
