@@ -9,6 +9,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+image: images/taking-notes-and-working-on-laptop.jpg
 ---
 ## Lorem ipsum
 
