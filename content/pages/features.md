@@ -35,7 +35,9 @@ sections:
     subtitle: lorem-ipsum
     background: white
     faq_items:
-      - question: 'Combien cela coûte d''être accompagner par CoworkRanking ? '
+      - question: >-
+          Combien cela coûte d'être accompagner par CoworkRanking dans sa
+          recherche ?
         answer: |+
           Notre service est totalement gratuit. 
 
