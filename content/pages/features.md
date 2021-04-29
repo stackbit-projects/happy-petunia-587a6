@@ -41,13 +41,6 @@ sections:
           Notre service est totalement gratuit. 
 
         type: faq_item
-      - question: 'Quel est la différence entre CoworRanking et un broker traditionnel ? '
-        answer: >
-          Nous proposons le même service que les brokers traditionnels,
-          cependant nous sommes spécialisés dans les espaces flexibles et plus
-          particulièrement le coworking. Nous mettons toute notre expérience et
-          notre motivation pour trouver l'espace rêvé de nos clients.
-        type: faq_item
       - question: >-
           Pourquoi choisir les équipes de CoworkRanking pour gérer ma recherche
           ? 
@@ -73,6 +66,13 @@ sections:
           réalisés vous faites votre choix et nous le communiquons à
           l'opérateur. La signature du contrat et l'aménagement sont gérés par
           l'opérateur.
+        type: faq_item
+      - question: 'Quel est la différence entre CoworRanking et un broker traditionnel ? '
+        answer: >
+          Nous proposons le même service que les brokers traditionnels,
+          cependant nous sommes spécialisés dans les espaces flexibles et plus
+          particulièrement le coworking. Nous mettons toute notre expérience et
+          notre motivation pour trouver l'espace rêvé de nos clients.
         type: faq_item
     type: section_faq
 seo:
