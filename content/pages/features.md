@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/motivation-near-window.jpg
+    image: images/corner-of-a-resturant-awaits-customers.jpg
     image_alt: App preview on a phone and tablet
     title: Comment ca marche ?
     content: >
