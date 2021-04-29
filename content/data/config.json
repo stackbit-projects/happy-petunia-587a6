@@ -87,6 +87,11 @@
                 ]
             },
             {
+                "title": "lorem-ipsum",
+                "nav_links": [],
+                "type": "footer_nav"
+            },
+            {
                 "type": "footer_form",
                 "title": "En savoir plus",
                 "form_id": "/contact",
