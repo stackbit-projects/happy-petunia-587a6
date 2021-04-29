@@ -89,7 +89,7 @@
             {
                 "type": "footer_form",
                 "title": "En savoir plus",
-                "form_id": "contactForm",
+                "form_id": "/",
                 "hide_labels": true,
                 "form_fields": [],
                 "submit_label": "Contactez-nous"
