@@ -90,7 +90,7 @@
                 "type": "footer_form",
                 "title": "En savoir plus",
                 "form_id": "/contact",
-                "hide_labels": true,
+                "hide_labels": false,
                 "form_fields": [],
                 "submit_label": "Contactez-nous"
             }
