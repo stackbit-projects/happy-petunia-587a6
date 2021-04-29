@@ -61,9 +61,7 @@ sections:
           passionnés est disponible avant, pendant ou après votre emménagement
           pour répondre à toutes vos questions.  
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: 'Combien de temps dure le processus de recherche ? '
         answer: >-
           ## Lorem ipsum
 
