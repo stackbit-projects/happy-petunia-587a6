@@ -31,7 +31,7 @@ sections:
         url: /contact
         style: primary
   - section_id: lorem-ipsum
-    title: Questions fréquentes ?
+    title: Questions fréquentes
     background: white
     faq_items:
       - question: >-
