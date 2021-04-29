@@ -102,14 +102,6 @@
                     }
                 ],
                 "type": "footer_nav"
-            },
-            {
-                "type": "footer_form",
-                "title": "En savoir plus",
-                "form_id": "/contact",
-                "hide_labels": false,
-                "form_fields": [],
-                "submit_label": "Contactez-nous"
             }
         ],
         "has_nav": true,
