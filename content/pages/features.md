@@ -62,17 +62,17 @@ sections:
           pour répondre à toutes vos questions.  
         type: faq_item
       - question: 'Combien de temps dure le processus de recherche ? '
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          **Le processus varie en fonction des projets de nos clients. **
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Après l'appel de découverte, nos équipes se mettent au travail et vous
+          font un retour sous une durée d'une semaine maximum. Suite à la
+          présentation des différents biens proposés, nous organisons à votre
+          convenance les visites des biens sélectionnés. Une fois les visites
+          réalisés vous faites votre choix et nous le communiquons à
+          l'opérateur. La signature du contrat et l'aménagement sont gérés par
+          l'opérateur.
         type: faq_item
     type: section_faq
 seo:
