@@ -41,7 +41,7 @@ sections:
           Notre service est totalement gratuit. 
 
         type: faq_item
-      - question: 'Quel est la différence entre CoworRanking et un borker traditionnel ? '
+      - question: 'Quel est la différence entre CoworRanking et un broker traditionnel ? '
         answer: >-
           ## Lorem ipsum
 
