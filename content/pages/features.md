@@ -35,7 +35,7 @@ sections:
     background: white
     faq_items:
       - question: >-
-          Combien cela me coûte d'être accompagner par CoworkRanking dans ma
+          Combien cela me coûte d'être accompagné par CoworkRanking dans ma
           recherche ?
         answer: |+
           Notre service est totalement gratuit. 
