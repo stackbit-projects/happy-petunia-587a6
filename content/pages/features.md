@@ -56,16 +56,16 @@ sections:
         type: faq_item
       - question: 'Combien de temps dure le processus de recherche ? '
         answer: >
-          **Le processus varie en fonction des projets de nos clients. **
+          \*\*Le processus varie en fonction des projets de nos clients.\*\*
 
 
           Après l'appel de découverte, nos équipes se mettent au travail et vous
           font un retour sous une durée d'une semaine maximum. Suite à la
           présentation des différents biens proposés, nous organisons à votre
           convenance les visites des biens sélectionnés. Une fois les visites
-          réalisés vous faites votre choix et nous le communiquons à
-          l'opérateur. La signature du contrat et l'aménagement sont gérés par
-          l'opérateur.
+          réalisées vous faites votre choix et nous le communiquons à
+          l'opérateur. La signature du contrat et l'emménagement sont gérés par
+          celui-ci
         type: faq_item
       - question: 'Quel est la différence entre CoworRanking et un broker traditionnel ? '
         answer: >
