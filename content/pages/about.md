@@ -3,7 +3,7 @@ title: 'CoworkRanking : le spécialiste du coworking.'
 subtitle: >-
   Notre mission est de trouver l'espace de travail qui correspond à 100% aux
   besoins de vos équipes.
-image: images/skyscrapers-looking-up.jpg
+image: images/woman-taking-notes-during-team-meeting.jpg
 seo:
   title: 'À propos | CoworkRanking : Le spécialiste du coworking. '
   description: >-
