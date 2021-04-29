@@ -87,12 +87,6 @@
                 ]
             },
             {
-                "image_alt": "Contactez-nous",
-                "title": "En savoir plus",
-                "type": "footer_text",
-                "image_url": "/contact"
-            },
-            {
                 "type": "footer_form",
                 "title": "En savoir plus",
                 "form_id": "/contact",
