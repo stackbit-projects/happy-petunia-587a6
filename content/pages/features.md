@@ -24,8 +24,8 @@ sections:
       #### **Une visite programmée**
 
 
-      Nous organisons pour vous les visites des espaces que vous avez
-      sélectionnés.
+      Nous prenons contact avec les espaces que vous avez sélectionnés afin
+      d'organiser les visites.
     actions:
       - label: Commencer ma recherche
         url: /contact
