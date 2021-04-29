@@ -41,9 +41,7 @@ sections:
           Notre service est totalement gratuit. 
 
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: 'Quel est la différence entre CoworRanking et un borker traditionnel ? '
         answer: >-
           ## Lorem ipsum
 
