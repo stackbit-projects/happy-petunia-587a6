@@ -30,7 +30,7 @@ sections:
       - label: Commencer ma recherche
         url: /contact
         style: primary
-  - section_id: lorem-ipsum
+  - section_id: FAQ
     title: Questions fréquentes
     background: white
     faq_items:
