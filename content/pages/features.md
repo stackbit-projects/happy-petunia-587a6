@@ -36,17 +36,9 @@ sections:
     background: white
     faq_items:
       - question: 'Combien cela coûte d''être accompagner par CoworkRanking ? '
-        answer: >-
-          ## Lorem ipsum
+        answer: |+
+          Notre service est totalement gratuit. 
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         type: faq_item
     type: section_faq
 seo:
