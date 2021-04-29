@@ -42,17 +42,11 @@ sections:
 
         type: faq_item
       - question: 'Quel est la différence entre CoworRanking et un broker traditionnel ? '
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          Nous proposons le même service que les brokers traditionnels,
+          cependant nous sommes spécialisés dans les espaces flexibles et plus
+          particulièrement le coworking. Nous mettons toute notre expérience et
+          notre motivation pour trouver l'espace rêvé de nos clients.
         type: faq_item
     type: section_faq
 seo:
