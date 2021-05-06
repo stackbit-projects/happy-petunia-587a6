@@ -2,7 +2,7 @@
     "title": "Coworkranking",
     "path_prefix": "/",
     "base_font": "fira-sans",
-    "palette": "cyan",
+    "palette": "green",
     "header": {
         "logo_img": "images/splendid-whale.png",
         "logo_img_alt": "Logo",
