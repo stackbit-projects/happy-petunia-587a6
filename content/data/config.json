@@ -28,7 +28,7 @@
             {
                 "label": "Nous contacter",
                 "url": "/contact",
-                "style": "primary",
+                "style": "third",
                 "has_icon": false
             }
         ]
