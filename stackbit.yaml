@@ -410,6 +410,7 @@ models:
         options:
           - gray
           - white
+          -yellow
         default: gray
       - type: list
         name: actions
