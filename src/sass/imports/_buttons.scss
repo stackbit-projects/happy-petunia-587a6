@@ -5,7 +5,7 @@
   border: 2px solid $yellow-pale;
   border-radius: $border-radius;
   box-sizing: border-box;
-  color: #3930a2;
+  color: #fff;
   cursor: pointer;
   display: -ms-inline-flexbox;
   display: inline-flex;
@@ -26,7 +26,7 @@
   &:hover,
   &:focus,
   &:active {
-    color: #3930a2;
+    color: #fff;
     opacity: 0.8;
     outline: 0;
   }
