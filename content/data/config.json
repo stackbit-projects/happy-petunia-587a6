@@ -12,7 +12,7 @@
                 "label": "Service",
                 "url": "/features",
                 "style": "link",
-                "icon_position": "left"
+                "icon_position": "right"
             },
             {
                 "label": "Blog",
