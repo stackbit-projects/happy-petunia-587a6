@@ -12,7 +12,8 @@
                 "label": "Service",
                 "url": "/features",
                 "style": "link",
-                "icon_position": "left"
+                "icon_position": "left
+"
             },
             {
                 "label": "Blog",
@@ -28,7 +29,7 @@
             {
                 "label": "Nous contacter",
                 "url": "/contact",
-                "style": "third",
+                "style": "primary",
                 "has_icon": false
             }
         ]
