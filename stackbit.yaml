@@ -54,14 +54,10 @@ models:
         name: base_font
         label: Font
         options:
-          - label: fira-sans
-            value: fira-sans
-          - label: nunito-sans
-            value: nunito-sans
-          - label: system-sans
-            value: system-sans
-          - label: ''
-            value: ''
+          - fira-sans
+          - nunito-sans
+          - system-sans
+          - ''
         default: nunito-sans
         required: true
       - type: model
