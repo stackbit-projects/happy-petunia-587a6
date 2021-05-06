@@ -13,7 +13,7 @@
 
   a {
     &:not(.button) {
-      color: inherit;
+      color: primary;
 
       &:hover {
         color: $gray-200;
